@@ -27,14 +27,16 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 </p>
 
-### 📌 精选项目
+### 📌 置顶项目
 
+<!-- PINNED:START -->
 | 项目 | 说明 |
 | --- | --- |
-| [Monolith](https://github.com/one-ea/Monolith) | ⚡ Serverless edge-native 博客：Cloudflare Workers + Hono + React + 可插拔存储适配器 |
-| [OpenList-Worker](https://github.com/one-ea/OpenList-Worker) | OpenList 的 Worker 侧项目，带 GitHub → Gitee 自动镜像同步 |
-| [InboxBridge](https://github.com/one-ea/InboxBridge) | 隐私优先的 Telegram Forum 收件桥，自托管双向通信 |
-| [SynChronicle](https://github.com/one-ea/SynChronicle) | 多智能体 AI 引擎：规划、写作、审阅与持续改进 |
+| [Monolith](https://github.com/one-ea/Monolith) | ⚡ A premium serverless edge-native blog — Cloudflare Workers + Hono + React + pluggable storage adapters（⭐ 346 · TypeScript） |
+| [InboxBridge](https://github.com/one-ea/InboxBridge) | Privacy-first Telegram Forum inbox bridge for self-hosted two-way communication.（⭐ 2 · TypeScript） |
+<!-- PINNED:END -->
+
+<sub>📌 本表与主页置顶仓库自动同步，每日更新一次。</sub>
 
 ### 🐍 贡献贪吃蛇
 
