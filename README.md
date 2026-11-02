@@ -34,6 +34,7 @@
 | --- | --- |
 | [Monolith](https://github.com/one-ea/Monolith) | ⚡ A premium serverless edge-native blog — Cloudflare Workers + Hono + React + pluggable storage adapters（⭐ 346 · TypeScript） |
 | [InboxBridge](https://github.com/one-ea/InboxBridge) | Privacy-first Telegram Forum inbox bridge for self-hosted two-way communication.（⭐ 2 · TypeScript） |
+| [SynChronicle](https://github.com/one-ea/SynChronicle) | SynChronicle is a multi-agent AI engine for planning, writing, reviewing, and continuously evolving long-form fiction.（TypeScript） |
 <!-- PINNED:END -->
 
 <sub>📌 本表与主页置顶仓库自动同步，每日更新一次。</sub>
