@@ -44,3 +44,7 @@
 </picture>
 
 <sub>🐍 由本仓库的 GitHub Actions 每日自动生成，图片托管在自己的仓库里，不依赖第三方图床。</sub>
+
+<p align="center">
+  <img alt="已被视奸" src="https://profile-views.mlith.workers.dev/">
+</p>
