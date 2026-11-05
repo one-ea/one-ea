@@ -30,7 +30,7 @@
 ### 🛰️ 最近动态
 
 <!-- RECENT:START -->
-- [Monolith](https://github.com/one-ea/Monolith) — ⚡ A premium serverless edge-native blog — Cloudflare Workers + Hono + React + pluggable storage adapters（⭐ 349 · TypeScript · 2026-11-01 更新）
+- [Monolith](https://github.com/one-ea/Monolith) — ⚡ A premium serverless edge-native blog — Cloudflare Workers + Hono + React + pluggable storage adapters（⭐ 351 · TypeScript · 2026-11-04 更新）
 - [InboxBridge](https://github.com/one-ea/InboxBridge) — Privacy-first Telegram Forum inbox bridge for self-hosted two-way communication.（⭐ 2 · TypeScript · 2026-10-04 更新）
 - [SynChronicle](https://github.com/one-ea/SynChronicle) — SynChronicle is a multi-agent AI engine for planning, writing, reviewing, and continuously evolving long-form fiction.（TypeScript · 2026-09-20 更新）
 <!-- RECENT:END -->
